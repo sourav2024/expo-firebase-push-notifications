@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "pushNotifications",
+    "slug": "pushNotifications",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.souravPushNotifications"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sourav_kashyap_7869.pushNotifications",
+      "googleServicesFile": "./google-services.json" 
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f29b5ddb-b0d8-4df2-9e5d-f68733bfff0c"
+      }
+    },
+    "owner": "sourav_kashyap_7869"
+  }
+}
