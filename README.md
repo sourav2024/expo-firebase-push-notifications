@@ -121,7 +121,7 @@ Before starting, ensure you have the following:
 ---
 
 ## Screenshots
-![Push Notifications Example](https://github.com/sourav2024/expo-firebase-push-notifications/blob/app-setup/example.mp4)
+![Push Notifications Example](https://github.com/sourav2024/expo-firebase-push-notifications/blob/main/example.mp4)
 
 ---
 
